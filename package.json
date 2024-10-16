@@ -1,0 +1,13 @@
+{
+  "creator": {
+    "version": "3.8.3"
+  },
+  "name": "AudioTest",
+  "type": "3d",
+  "uuid": "b25e3f60-4dc6-4f2d-a0e7-4bdd515bcf1a",
+  "_sourceId": "0bd80113-4da4-4e0a-90c9-c8d85d3b77b7",
+  "dependencies": {
+    "js-audio-recorder": "^1.0.7",
+    "web-audio-recorder": "^1.0.5"
+  }
+}
